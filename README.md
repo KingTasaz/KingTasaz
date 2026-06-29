@@ -1,4 +1,7 @@
-## Hi there 👋
+## 🤔 About Me
+
+My name is Daniel! I am an avid programmer and I spend most of my free time working on personal projects.
+I have been coding with `Python 🐍` for more than half my life! And I have also been using `C 🔷` for about a year.
 
 <!--
 **KingTasaz/KingTasaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
