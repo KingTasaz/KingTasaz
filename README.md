@@ -33,19 +33,20 @@ Stock Ticker was originally a board game that we played in my grade 12 ICS class
 <img width="998" height="728" alt="image" src="https://github.com/user-attachments/assets/169cf46d-a519-453c-83cf-24477523d62a" />
 
 
-<!--
-**KingTasaz/KingTasaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<br>
+...The list of projects goes on very far, however these are the best 3 that I wanted to highlight. Below I will include some images of random other things I have made.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/d0cfa4a4-a3ac-4172-aaa6-cf89b733f324" />
+<img width="1195" height="828" alt="image" src="https://github.com/user-attachments/assets/e15b360a-3912-4faf-b3ad-82e650517ac9" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/82627985-b6cd-4590-80e2-c440cdf58d0d" />
+<img width="1148" height="645" alt="image" src="https://github.com/user-attachments/assets/200fdb1b-141b-4fe2-a5e3-339303af8bd1" />
+<img width="803" height="630" alt="image" src="https://github.com/user-attachments/assets/2b0192f1-5d55-44b8-b613-706de7e70a09" />
+<img width="638" height="510" alt="image" src="https://github.com/user-attachments/assets/6fc20803-ffe2-4e3b-a5c8-3e8be68411b5" />
+
+
+
 
 
